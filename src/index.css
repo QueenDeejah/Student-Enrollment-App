@@ -1,0 +1,39 @@
+* {
+  margin: 0;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  color: #333;
+}
+.menu{
+  padding:20px ;
+  display: flex;
+  align-items: center;
+  max-width: 600px;
+  margin: auto;
+}
+.menu h1{
+  color: yellowgreen;
+}
+.menu .links{
+  margin-left: auto;
+}
+.menu a{
+  margin-left: 20px;
+  text-decoration: none;
+  padding:2px;
+}
+.menu a:hover{
+  color: yellowgreen;
+}
+.app{
+  padding: 10px;
+  border-radius: 15px;
+  margin-bottom: 20px;
+  margin-left: 60px;
+  display: block;
+}
+.sub{
+  border-radius: 5px;
+  margin-left: 60px;
+  width: 60px;
+}
+
